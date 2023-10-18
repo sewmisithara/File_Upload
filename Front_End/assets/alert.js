@@ -1,5 +1,3 @@
-
-
 function SuccessAlert(vale, value2) {
     Swal.fire({
         position: 'bottom-end',
@@ -19,4 +17,3 @@ function unSuccessAlert(vale,vale2) {
         timer: 1500
     })
 }
-
