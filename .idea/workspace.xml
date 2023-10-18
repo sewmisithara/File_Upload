@@ -9,14 +9,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c91c5b1c-705b-4afe-b449-e8d5ae800c9b" name="Default Changelist" comment="add">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Back_End/src/main/java/lk/ijse/file_uploading/WebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Back_End/src/main/java/lk/ijse/file_uploading/WebAppInitializer.java" afterDir="false" />
-    </list>
+    <list default="true" id="c91c5b1c-705b-4afe-b449-e8d5ae800c9b" name="Default Changelist" comment="create advisor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -173,7 +177,7 @@
       <workItem from="1697187070291" duration="3257000" />
       <workItem from="1697197460679" duration="146000" />
       <workItem from="1697635722894" duration="197000" />
-      <workItem from="1697636889506" duration="386000" />
+      <workItem from="1697636889506" duration="748000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1697635776755</created>
@@ -182,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697635776755</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create advisor">
+      <created>1697637529254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697637529254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +213,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="create advisor" />
+    <option name="LAST_COMMIT_MESSAGE" value="create advisor" />
   </component>
 </project>
