@@ -1,4 +1,4 @@
-package lk.ijse.file_uploading.service;
+package file_uploading.service;
 
 import lk.ijse.file_uploading.dto.ImageDTO;
 import org.springframework.web.bind.annotation.ModelAttribute;

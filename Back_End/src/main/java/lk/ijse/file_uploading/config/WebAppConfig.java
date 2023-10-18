@@ -1,5 +1,7 @@
 package lk.ijse.file_uploading.config;
 
+import file_uploading.advisor.AppWideExceptionHandler;
+import file_uploading.controller.FileUploadController;
 import lk.ijse.file_uploading.advisor.AppWideExceptionHandler;
 import lk.ijse.file_uploading.controller.FileUploadController;
 import org.springframework.context.annotation.Bean;
@@ -9,7 +11,6 @@ import org.springframework.web.multipart.commons.CommonsMultipartResolver;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
-
 
 @Configuration
 @EnableWebMvc

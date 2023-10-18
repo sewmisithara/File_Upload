@@ -1,4 +1,4 @@
-package lk.ijse.file_uploading.Controller;
+package file_uploading.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -10,8 +10,7 @@ import org.springframework.web.multipart.MultipartFile;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
-
-public class imageDTO {
+public class ImageDTO {
     private String id;
     private MultipartFile fileString;
 

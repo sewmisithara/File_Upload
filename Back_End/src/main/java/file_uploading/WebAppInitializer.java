@@ -1,4 +1,4 @@
-package lk.ijse.file_uploading;
+package file_uploading;
 
 import lk.ijse.file_uploading.config.WebAppConfig;
 import lk.ijse.file_uploading.config.WebRootConfig;
