@@ -2,11 +2,11 @@ package lk.ijse.file_uploading.Controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.ModelAttribute;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.ResponseStatus;
+import org.springframework.web.bind.annotation.*;
 
+@RestController
+@RequestMapping("/uploads")
+@CrossOrigin
 public class FileUploadController {
     @Autowired
     private FileUploadService fileRepo;
