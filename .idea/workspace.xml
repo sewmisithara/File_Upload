@@ -62,8 +62,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\file uplode\File_Upload_with_Spring-MVC\Back_End\src\main\java" />
+      <recent name="F:\file uplode\File_Upload_with_Spring-MVC\Back_End\src\main\java\lk\ijse\file_uploading" />
       <recent name="F:\file uplode\File_Upload_with_Spring-MVC\Front_End\assets" />
       <recent name="F:\file uplode\File_Upload_with_Spring-MVC\Front_End" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.file_uploading.util" />
+      <recent name="lk.ijse.file_uploading.repo" />
     </key>
   </component>
   <component name="RunManager">
