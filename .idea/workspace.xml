@@ -10,65 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c91c5b1c-705b-4afe-b449-e8d5ae800c9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-5.2.1-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-icons/bootstrap-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-icons/bootstrap-icons.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-icons/fonts/bootstrap-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-icons/fonts/bootstrap-icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/bootstrap-icons/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/jQuery/jquery-3.6.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/assets/styles/sweetalert2-11.6.16/sweetalert2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Front_End/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Front_End" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CW -nimeth pu/Car-Rental-System" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -105,23 +46,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\file uplode\File_Upload_with_Spring-MVC\Front_End\assets" />
       <recent name="F:\file uplode\File_Upload_with_Spring-MVC\Front_End" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tomcat 8.5.90" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.90" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Back_End_war/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -229,7 +158,8 @@
       <workItem from="1697171303207" duration="3050000" />
       <workItem from="1697178315473" duration="939000" />
       <workItem from="1697179477349" duration="1484000" />
-      <workItem from="1697187070291" duration="2383000" />
+      <workItem from="1697187070291" duration="3257000" />
+      <workItem from="1697197460679" duration="146000" />
     </task>
     <servers />
   </component>
